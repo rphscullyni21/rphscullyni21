@@ -13,7 +13,7 @@ I'm Nick Cully, a passionate software developer with a love for open-source proj
 
 Here are some of my notable repositories:
 
-- [RestStop](https://github.com/rphscullyni21/RestStop): [**RestStop** is a user-friendly web application designed to help individuals quickly locate nearby bathrooms in their area. Inspired by Jonas Schmedttman's "mapty" app, RestStop offers an intuitive map interface, filtering options, and user reviews to streamline the process of finding restrooms, whether you're on a road trip or exploring a new city. With features like favorite saving and mobile accessibility, RestStop ensures a convenient and hassle-free experience for users in need of restroom facilities.].
+- [RestStop](https://github.com/rphscullyni21/RestStop): [A user-friendly web application designed to help individuals quickly locate nearby bathrooms in their area. Inspired by Jonas Schmedttman's "mapty" app, RestStop offers an intuitive map interface, filtering options, and user reviews to streamline the process of finding restrooms, whether you're on a road trip or exploring a new city. With features like favorite saving and mobile accessibility, RestStop ensures a convenient and hassle-free experience for users in need of restroom facilities.].
 - [Repository 2 Name](Link to Repository 2): [Brief description of Repository 2].
 - [Repository 3 Name](Link to Repository 3): [Brief description of Repository 3].
 
