@@ -1,13 +1,13 @@
 Welcome to my GitHub profile! 
 
 I'm Nick Cully, a passionate Junior Software Engineer with a love for open-source projects and solving complex problems through programming. 
-I have a passion for Engineering and quite literally using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, a couple of models, and even a fully functioning cutaway model of a Rolls Royce Jet Engine!
+I have a passion for Engineering and quite literally using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, models, and even a fully functioning cutaway of a Rolls Royce Jet Engine!
 
 ## About Me
 
 - 🌱 I'm currently learning new technologies and expanding my knowledge in various programming languages, such as JavaScript and Node.js.
 - 💼 I currently work as a [Driver] at [DoorDash and Uber] as well as contribute to open source projects and build my own projects through Github.
-- 🔭 I'm currently working on [RestStop and WeatherSphere], a [RestStop is an app that allows anyone to find local restrooms near them, in the case that they don't know where one is. WeatherSphere is a basic weather app that allows for the user to find out basic weather information about a given city].
+- 🔭 I'm currently working on [RestStop and WeatherSphere], as well as finding interesting projects to contribute to as well. 
 - 📫 You can reach me via email at [rphscullyni@gmail.com].
 
 ## My Repositories
