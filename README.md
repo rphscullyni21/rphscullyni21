@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! 
 
-I'm Nick Cully, a passionate Junior Software Engineer with a love for open-source projects and solving complex problems through programming. 
+I'm Nick Cully, a passionate self taught Web Developer with a love for open-source projects and solving complex problems through programming. 
 I have a passion for Engineering and quite literally using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, models, and even a fully functioning cutaway of a Rolls Royce Jet Engine!
 
 ## About Me
