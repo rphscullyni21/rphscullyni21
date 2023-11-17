@@ -32,7 +32,6 @@ Feel free to connect with me on social media or drop me an email. I'm always ope
 
 - E-mail:  [rphscullyni@gmail.com]
 - LinkedIn: [www.linkedin.com/in/nick-cully-65926aa4]
-- Facebook: [https://www.facebook.com/Herr.Cully/]
 
 ## Thank You
 
