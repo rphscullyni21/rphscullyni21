@@ -22,7 +22,7 @@ Here are some of my notable repositories:
 
 I have contributed to various open-source projects, including:
 
-- [Project 1 Name](Link to Project 1): [Brief description of Project 1].
+- [First Contributions](https://github.com/firstcontributions/first-contributions/pull/77069): [Very first contribution to an open source project, I added my name to the contributors list].
 - [Project 2 Name](Link to Project 2): [Brief description of Project 2].
 - [Project 3 Name](Link to Project 3): [Brief description of Project 3].
 
