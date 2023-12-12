@@ -6,9 +6,11 @@ I have a passion for Engineering and quite literally using the mind to fix real 
 ## About Me
 
 - 🌱 I'm currently learning new technologies and expanding my knowledge in various programming languages, such as JavaScript and Node.js.
-- 💼 I currently work as a [Driver] at [DoorDash and Uber] as well as contribute to open source projects and build my own projects through Github.
+- 💼 I currently work as a Aircraft Welder as well as contribute to open source projects and build my own projects through Github.
 - 🔭 I'm currently working on [RestStop and WeatherSphere], as well as finding interesting projects to contribute to as well. 
-- 📫 You can reach me via email at [rphscullyni@gmail.com].
+- 📫 You can reach me via my:
+  - E-mail:  [rphscullyni@gmail.com]
+  - LinkedIn: [www.linkedin.com/in/nick-cully-65926aa4]
 
 ## My Repositories
 
