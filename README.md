@@ -1,13 +1,13 @@
 Welcome to my GitHub profile! 
 
-I'm Nick Cully, a passionate self taught Web Developer with a love for open-source projects and solving complex problems through programming. 
-I have a passion for Engineering and quite literally using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, models, and even a fully functioning cutaway of a Rolls Royce Jet Engine!
+I'm Nick Cully, a passionate current student but have also self taught myself programming in JavaScript and React and solving complex problems through programming. 
+I have a passion for Engineering and love using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, models, and even a fully functioning Rolls Royce Jet Engine!
 
 ## About Me
 
-- 🌱 I'm currently learning new technologies and expanding my knowledge in various programming languages, such as JavaScript and Node.js.
-- 💼 I currently work as a Aircraft Welder as well as contribute to open source projects and build my own projects through Github.
-- 🔭 I'm currently working on [RestStop and WeatherSphere], as well as finding interesting projects to contribute to as well. 
+- 🌱 I'm currently learning new technologies and expanding my knowledge in C++.
+- 💼 I currently work as Student Veterans Advocate at my school as well as contribute to open source projects and build my own projects through Github.
+- 🔭 I'm currently working on a Tetris clone, but I just finished a Asteroids clone! I also enjoy finding interesting projects to contribute to as well. 
 
 ## My Repositories
 
@@ -19,11 +19,6 @@ Here are some of my notable repositories:
 
 ## My Contributions
 
-I have contributed to various open-source projects, including:
-
-- [First Contributions](https://github.com/firstcontributions/first-contributions/pull/77069): [Very first contribution to an open source project, I added my name to the contributors list].
-- [Project 2 Name](Link to Project 2): [Brief description of Project 2].
-- [Project 3 Name](Link to Project 3): [Brief description of Project 3].
 
 ## Get in Touch
 
