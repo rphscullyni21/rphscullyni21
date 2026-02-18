@@ -13,7 +13,7 @@ I have a passion for Engineering and love using the mind to fix real world issue
 
 Here are some of my notable repositories:
 
-- [Asteroids clone]"https://github.com/rphscullyni21/Computer-Science-II/tree/Asteroids-/-Dynamic-Memory-Allocation-and-Classes": [This project is a recreation of the classic **Asteroids** arcade game, developed in C++ using the **SFML graphics library**.].
+- [Asteroids clone](https://github.com/rphscullyni21/Computer-Science-II/tree/Asteroids-/-Dynamic-Memory-Allocation-and-Classes): [This project is a recreation of the classic **Asteroids** arcade game, developed in C++ using the **SFML graphics library**.].
 - [WeatherSphere ⛈️](https://github.com/rphscullyni21/Weather-App/tree/main): [WeatherSphere is a comprehensive weather application that provides real-time weather information and forecasts for cities around the world. Get accurate temperature readings, detailed weather descriptions, and a 7-day forecast at your fingertips. The app also allows you to switch between metric and imperial units for temperature measurements, ensuring you receive weather updates in your preferred format. With an intuitive interface and visually appealing design, WeatherSphere keeps you informed about the elements, no matter where you are.].
 - [Guess-My-Number ❓](https://github.com/rphscullyni21/Guess-My-Number-Game.git): [Simple game that allows the user to pick a difficulty setting and guess a number between the difficulty range (1-20 for Easy, 1-50 for Medium, and 1-1000 for Hard)].
 
