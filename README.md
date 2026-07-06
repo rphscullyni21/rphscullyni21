@@ -1,32 +1,28 @@
-Welcome to my GitHub profile! 
+# Welcome to my GitHub profile! 👋
 
-I'm Nick Cully, a passionate current student but have also self taught myself programming in JavaScript and React and solving complex problems through programming. 
-I have a passion for Engineering and love using the mind to fix real world issues and turn things inside my head into reality, not just in programming but I also have a few 3D printers that I use to build all sorts of fun things, including many different puzzles, models, and even a fully functioning Rolls Royce Jet Engine!
+I'm **Nick Cully**, a passionate student and self-taught developer dedicated to solving complex problems through programming. I love engineering and turning ideas into reality—not just in software, but also in the physical world! I operate several 3D printers to build all sorts of fun projects, including complex mechanical puzzles, models, and even a fully functioning scaled Rolls-Royce Jet Engine.
 
-## About Me
+## 🛠️ About Me
 
-- 🌱 I'm currently learning new technologies and expanding my knowledge in C++.
-- 💼 I currently work as Student Veterans Advocate at my school as well as contribute to open source projects and build my own projects through Github.
-- 🔭 I'm currently working on a Tetris clone, but I just finished a Asteroids clone! I also enjoy finding interesting projects to contribute to as well. 
+- 🌱 **Currently Learning**: Diving deep into new technologies and expanding my knowledge in C++.
+- 💼 **Current Role**: Serving as a Student Veterans Advocate at my university while actively building software and contributing to projects.
+- 🔭 **Current Focus**: I am currently building a Tetris clone in C++!
 
-## My Repositories
+## 🚀 Featured Projects
 
 Here are some of my notable repositories:
 
-- [Asteroids clone](https://github.com/rphscullyni21/Computer-Science-II/tree/Asteroids-/-Dynamic-Memory-Allocation-and-Classes): [This project is a recreation of the classic **Asteroids** arcade game, developed in C++ using the **SFML graphics library**.].
-- [Guess-My-Number ❓](https://github.com/rphscullyni21/Guess-My-Number-Game.git): [Simple game that allows the user to pick a difficulty setting and guess a number between the difficulty range (1-20 for Easy, 1-50 for Medium, and 1-1000 for Hard)].
+- **[PFAS Forensics Internship](https://github.com)**: An integrated forensic intelligence suite for environmental toxicology study. It includes automated ETL data pipelines, site-attribution visualization tools, and an interactive Python/Streamlit flashcard application to help researchers study compound criteria under EPA Method 1633.
+- **[Asteroids Clone](https://github.com/rphscullyni21/Computer-Science-II/tree/Asteroids-/-Dynamic-Memory-Allocation-and-Classes)**: A recreation of the classic arcade game, developed in C++ using the SFML graphics library to practice dynamic memory allocation and object-oriented programming.
+- **[Guess-My-Number ❓](https://github.com/rphscullyni21/Guess-My-Number-Game.git)**: A polished number-guessing game that features adaptive difficulty settings ranging from Easy (1–20) to Hard (1–1,000).
 
+## 📬 Get in Touch
 
-## Get in Touch
+I am always open to unique collaborations, open-source contributions, and exciting engineering projects. Feel free to connect!
 
-Feel free to connect with me on social media or drop me an email. I'm always open to collaborations and exciting projects.
+- **Email**: [rphscullyni@gmail.com](mailto:rphscullyni@gmail.com)
+- **LinkedIn**: [linkedin.com/in/nick-cully-65926aa4](https://linkedin.com)
 
-- E-mail:  [rphscullyni@gmail.com]
-- LinkedIn: [www.linkedin.com/in/nick-cully-65926aa4]
+---
 
-## Thank You
-
-I hope you find something useful or interesting in my repositories!. Don't forget to star any repositories you like and leave a comment if you have any questions or suggestions.
-
-Happy coding!
-
+*Thank you for visiting! If you find something useful or interesting here, feel free to star the repositories. Happy coding!*
