@@ -1,12 +1,12 @@
-# Welcome to my GitHub profile! 👋
+# Hello there 👋
 
-I'm **Nick Cully**, a passionate student and self-taught developer dedicated to solving complex problems through programming. I love engineering and turning ideas into reality—not just in software, but also in the physical world! I operate several 3D printers to build all sorts of fun projects, including complex mechanical puzzles, models, and even a fully functioning scaled Rolls-Royce Jet Engine.
+I'm **Nick**, a passionate student and self-taught developer dedicated to solving complex problems through programming. I love engineering and turning ideas into reality—not just in software, but also in the physical world! I operate several 3D printers to build all sorts of fun projects, including complex mechanical puzzles, models, and even a fully functioning scaled Rolls-Royce Jet Engine.
 
 ## 🛠️ About Me
 
-- 🌱 **Currently Learning**: Diving deep into new technologies and expanding my knowledge in C++.
+- 🌱 **Currently Learning**: Working for one of my university's lab's gaining valuable experience in researching PFAS/PFOA forever chemicals and their harmful impact on both the local ecosystem's aswell as globally. I am utilizing coding languages like R, Python, and aswell as a few other interesting technologies and am fascinated by the entire process of moving the needle of progress one inch further.
 - 💼 **Current Role**: Serving as a Student Veterans Advocate at my university while actively building software and contributing to projects.
-- 🔭 **Current Focus**: I am currently building a Tetris clone in C++!
+- 🔭 **Current Focus**: I am currently building a Flashcards application for my internship that will be utilized to help other students in learning the complex nature of the research I am involved in. Check out the repository for it below!
 
 ## 🚀 Featured Projects
 
